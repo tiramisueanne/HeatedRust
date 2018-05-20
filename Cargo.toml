@@ -1,0 +1,6 @@
+[package]
+name = "hotness"
+version = "0.1.0"
+authors = ["Drothknar <sueanne@cs.utexas.edu>"]
+
+[dependencies]
